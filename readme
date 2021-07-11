@@ -1,0 +1,13 @@
+Project: Python Selenium Tutorial
+Author: Justin Klein
+Last Updated: July 11th, 2021
+Tutorial Followed: https://youtube.com/playlist?list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ 
+Required: Python3, pip, selenium framework
+
+Purpose: I want to learn how to build bots to automate certain tasks, I found this tutorial online
+that shows the purpose of Python's Selenium framework
+
+Disclaimer: The code written follow's Tech With Tim's tutorials based off his website, with some functionality
+no longer being supported, I still kept those sections so that I can look back at them when I build my own bots
+for guidance
+
